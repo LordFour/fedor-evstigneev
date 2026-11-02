@@ -1,0 +1,28 @@
+2:"$Sreact.fragment"
+3:"/fedor-evstigneev/_next/static/chunks/1928-rytefb6a.js"
+4:"/fedor-evstigneev/_next/static/chunks/3hz67byvfc0b-.js"
+5:I[39756,["$3","$4"],"default"]
+6:I[37457,["$3","$4"],"default"]
+b:I[22016,["$3","$4"],""]
+c:I[5500,["$3","$4"],"Image"]
+d:I[97367,["$3","$4"],"OutletBoundary"]
+e:"$Sreact.suspense"
+11:"ViewportBoundary"
+12:I[97367,["$3","$4"],"$11"]
+13:"MetadataBoundary"
+14:I[97367,["$3","$4"],"$13"]
+15:I[27201,["$3","$4"],"IconMark"]
+8:X
+8:C
+9:X
+a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","div",null,{"className":"frame grid-12 gap-y-10 pt-10 pb-[var(--section)] md:pt-16","children":[["$","div",null,{"className":"col-span-4 md:col-span-6 md:self-center","children":[["$","p",null,{"className":"caption-4","children":"Ошибка 404"}],["$","h1",null,{"className":"heading-1 mt-4","children":"Такой страницы нет"}],["$","p",null,{"className":"body-lg mt-6 max-w-[40ch]","children":"Возможно, ссылка устарела или маршрут перенесли. Начните с главной или посмотрите ближайшие путешествия."}],["$","div",null,{"className":"mt-8 flex flex-wrap items-center gap-x-6 gap-y-2","children":[["$","$Lb",null,{"href":"/","className":"btn","children":"На главную"}],["$","$Lb",null,{"href":"/travel","className":"link-arrow","children":"Путешествия"}],["$","$Lb",null,{"href":"/moldova","className":"link-arrow","children":"Молдова"}]]}]]}],["$","div",null,{"className":"relative col-span-4 aspect-[4/5] overflow-hidden md:col-span-5 md:col-start-8","children":["$","$Lc",null,{"src":"/fedor-evstigneev/media/fedor-moldova-sign.webp","alt":"Фёдор Евстигнеев у дорожного указателя на деревню Moldova в Эстонии","sizes":"(min-width: 768px) 40vw, 100vw","placeholder":"blur","blurDataURL":"data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADQAwCdASoMABUAPu1iqU2ppaOiMAgBMB2JbACdOUE4AAwfDDnh5RAA95fjraiWJEi1t2PIupGME7OU6AEhMiXZvM4o8/kti0H0XyV+Xrgo+yE8Of+JVGNVf4Td4M841nF/IZHDvWgAAA==","fill":true,"className":"object-cover "}]}]]}],null,["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}],"p":"$@10","v":null,"s":"$9"}}]]
+1:[["children",{"s":"/_not-found","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L12",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#ecebe7"}]]}],["$","$L14",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$e",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Фёдор Евстигнеев — экскурсии по Молдове и авторские путешествия"}],["$","meta","1",{"name":"description","content":"Гид и сомелье из Кишинёва. Авторские экскурсии по Кишинёву, винные туры и выезды по Молдове, путешествия по миру малой группой до 8 человек."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"canonical","href":"https://lordfour.github.io/fedor-evstigneev/"}],["$","meta","4",{"property":"og:title","content":"Фёдор Евстигнеев — экскурсии по Молдове и авторские путешествия"}],["$","meta","5",{"property":"og:description","content":"Гид и сомелье из Кишинёва. Авторские экскурсии по Кишинёву, винные туры и выезды по Молдове, путешествия по миру малой группой до 8 человек."}],["$","meta","6",{"property":"og:site_name","content":"Фёдор Евстигнеев"}],["$","meta","7",{"property":"og:locale","content":"ru_RU"}],["$","meta","8",{"property":"og:image","content":"https://lordfour.github.io/fedor-evstigneev/fedor-evstigneev/og/default.jpg"}],["$","meta","9",{"property":"og:image:width","content":"1200"}],["$","meta","10",{"property":"og:image:height","content":"630"}],["$","meta","11",{"property":"og:image:alt","content":"Фёдор Евстигнеев в каньоне Сказка"}],["$","meta","12",{"property":"og:type","content":"website"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Фёдор Евстигнеев — экскурсии по Молдове и авторские путешествия"}],["$","meta","15",{"name":"twitter:description","content":"Гид и сомелье из Кишинёва. Авторские экскурсии по Кишинёву, винные туры и выезды по Молдове, путешествия по миру малой группой до 8 человек."}],["$","meta","16",{"name":"twitter:image","content":"https://lordfour.github.io/fedor-evstigneev/fedor-evstigneev/og/default.jpg"}],["$","meta","17",{"name":"twitter:image:alt","content":"Фёдор Евстигнеев в каньоне Сказка"}],["$","meta","18",{"name":"twitter:image:width","content":"1200"}],["$","meta","19",{"name":"twitter:image:height","content":"630"}],["$","link","20",{"rel":"icon","href":"/fedor-evstigneev/icon.svg?icon.3nv71uhuvhl7x.svg","sizes":"any","type":"image/svg+xml"}],["$","$L15","21",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@16","v":null,"s":"$9"}},"a":"$@17","u":"$@18","b":"FtfUbgl166uzrYiC7ZnEz"}
+f:null
+18:true
+9:300
+9:C
+17:0
+7:"$undefined"
+16:"$undefined"
+10:"$undefined"
