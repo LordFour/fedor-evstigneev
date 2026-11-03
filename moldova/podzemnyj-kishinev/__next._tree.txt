@@ -1,4 +1,4 @@
-:HL["/fedor-evstigneev/_next/static/chunks/3efj4skly5ikd.css","style"]
+:HL["/fedor-evstigneev/_next/static/chunks/0em67zv6gon02.css","style"]
 :HL["/fedor-evstigneev/_next/static/media/276a8f4fe816cb6b-s.p.2v2sz4qlut9s1.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/fedor-evstigneev/_next/static/media/35748ff0d0e49a62-s.p.05dr089en3y2d.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/fedor-evstigneev/_next/static/media/82450a180bcad83c-s.p.0p-wng2nn8o-p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -6,4 +6,4 @@
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"podzemnyj-kishinev","s":[]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"moldova","h":131136,"c":"$Q2"}]]
-0:{"b":"mlDPvGcr5wMYQspRsQBU_","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
+0:{"b":"Ubgn5OkRhwdPvbNsRpiRs","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}

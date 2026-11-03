@@ -1,4 +1,4 @@
-:HL["/fedor-evstigneev/_next/static/chunks/3efj4skly5ikd.css","style"]
+:HL["/fedor-evstigneev/_next/static/chunks/0em67zv6gon02.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":64,"c":"$Q2"}]]
-0:{"b":"mlDPvGcr5wMYQspRsQBU_","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"Ubgn5OkRhwdPvbNsRpiRs","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
